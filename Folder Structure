@@ -1,0 +1,10 @@
+automation-testing-project/
+│
+├── index.html
+├── package.json
+├── cypress/
+│   ├── e2e/
+│   │   └── login.cy.js
+│   └── support/
+│       └── e2e.js
+└── cypress.config.js
